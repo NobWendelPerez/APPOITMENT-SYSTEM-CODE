@@ -192,3 +192,6 @@ int nm1=0; int nm2=0;int nm5=0;int apv=0;
           }while(out3.equals(out3));
                 
      }while(out1.equals(out1) && (out2.equals(out2)));
+     
+     }
+        }
